@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57313114-55e8-4752-b47d-9d73765bad23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fADH2NWSsKDGo0TwUdVbywEgOL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_25 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="example.shoppingapp1" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57313114-55e8-4752-b47d-9d73765bad23" name="Default Changelist" comment="" />
+      <created>1595651914369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595651914369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="80" key="#Project_Structure" timestamp="1595658386610">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="717" y="80" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1595658386610" />
+    <state x="447" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595658958885">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1595658958885" />
+    <state x="980" y="187" key="AndroidProcessChooserDialog" timestamp="1595659068034">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="980" y="187" key="AndroidProcessChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1595659068034" />
+    <state width="732" height="246" key="GridCell.Tab.0.bottom" timestamp="1595659098928">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="732" height="246" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595659098928" />
+    <state width="732" height="246" key="GridCell.Tab.0.center" timestamp="1595659098927">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="732" height="246" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595659098927" />
+    <state width="732" height="246" key="GridCell.Tab.0.left" timestamp="1595659098927">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="732" height="246" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595659098927" />
+    <state width="732" height="246" key="GridCell.Tab.0.right" timestamp="1595659098927">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="732" height="246" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595659098927" />
+    <state x="829" y="124" width="592" height="596" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1595659026899">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="829" y="124" width="592" height="596" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.834@0.0.1536.834" timestamp="1595659026899" />
+    <state x="822" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1595658153444">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="822" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1595658153444" />
+    <state x="787" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1595658400062">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="787" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595658400062" />
+  </component>
+</project>
